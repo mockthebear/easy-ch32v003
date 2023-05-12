@@ -14,11 +14,11 @@ You can use an crystal on the PD6 and PA2 pins, but thats optional.
 
 # CH32V00F4P6 pinout
 
-![CH32V00F4P6 pinout](/images/ch32v00f4p6-pinout.png "CH32V00F4P6 pinout")
+![CH32V00F4P6 pinout](/images/ch32v003f4p6-pinout.png "CH32V00F4P6 pinout")
 
 You can use an crystal on the PD6 and PA2 pins, but thats optional.
 
-![CH32V00F4P6 diagram](/images/ch32v00f4p6-diagram.png "CH32V00F4P6 diagram")
+![CH32V00F4P6 diagram](/images/ch32v003f4p6-diagram.png "CH32V00F4P6 diagram")
 
 # Connecting elink
 
